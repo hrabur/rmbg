@@ -1,0 +1,14 @@
+- title: Adventure time with Wolfy
+  sizes: XS, S, M, L, XL
+  image: "tshirts/images/adventure-time-with-wolfy.jpg"
+  featured: true
+  categories:
+    - XNRS
+    - Featured
+- title: Second
+  sizes: XS, S, M, L, XL
+  image: "tshirts/images/adventure-time-with-wolfy.jpg"
+  featured: true
+  categories:
+    - XNRS
+    - Featured
